@@ -2,7 +2,7 @@
 from matplotlib import image
 from matplotlib import pyplot
 # load image as pixel array
-image = image.imread('kolala.jpeg')
+image = image.imread('/Users/ziv.attias/PycharmProjects/imageprocessor/samples/koala.jpeg')
 # summarize shape of the pixel array
 print(image.dtype)
 print(image.shape)
