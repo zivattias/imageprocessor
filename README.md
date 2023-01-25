@@ -6,7 +6,7 @@ Image types:
 * png
 
 Methods: 
-* color manipulation - rgb > greyscale
+* color manipulation - rgb > greyscale - WORKS FOR JPEG & PNG
 * rotation by 90 degrees
 * crop
 * background remover

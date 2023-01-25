@@ -16,5 +16,5 @@ def rgb2gs(src: str):
     return True
 
 
-flag = rgb2gs('/Users/ziv.attias/PycharmProjects/imageprocessor/samples/gs_person.jpeg')
+flag = rgb2gs('/Users/ziv.attias/PycharmProjects/imageprocessor/samples/dog.png')
 print('Done') if flag else 'Error'
